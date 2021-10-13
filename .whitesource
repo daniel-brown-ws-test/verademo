@@ -2,4 +2,5 @@
   "settingsInheritedFrom": "daniel-brown-ws-test/whitesource-config@main",
   "scanSettings": {
     "baseBranches": ["main","integration"]
+  }
 } 
